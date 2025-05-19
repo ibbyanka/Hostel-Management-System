@@ -26,7 +26,7 @@ A web-based Hostel Management System designed to streamline hostel administratio
    git clone https://github.com/your-username/Hostel-Management-System.git
 Move the folder to your XAMPP htdocs directory.
 
-Create a database named hostel_management in phpMyAdmin and import the hostel_management.sql file.
+Create a database named hostelmsphp in phpMyAdmin and import the hostelmsphp.sql file.
 
 Update database credentials in /includes/db_connect.php.
 
