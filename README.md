@@ -24,5 +24,12 @@ A web-based Hostel Management System designed to streamline hostel administratio
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/Hostel-Management-System.git
-# Hostel-Management-System
-A web-based application designed to streamline hostel management processes including room booking, payments, and notices for students and administrators.
+Move the folder to your XAMPP htdocs directory.
+
+Create a database named hostel_management in phpMyAdmin and import the hostel_management.sql file.
+
+Update database credentials in /includes/db_connect.php.
+
+Start Apache and MySQL from XAMPP.
+
+Access the system via http://localhost/Hostel-Management-System.
